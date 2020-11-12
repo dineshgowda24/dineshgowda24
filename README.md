@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm Dinesh.<br> I'm a Backend Developer from India.<br><br>#golang, #distributedsystems, #gcp</samp>
+  <lato>Hello there. I'm Dinesh.<br> I'm a Backend Developer from India.<br><br>#golang, #distributedsystems, #gcp</lato>
   <br>
   <br>
   <br>
